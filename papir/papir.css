@@ -15,3 +15,21 @@ p {
 p, h2 {
     padding: 0 8px;
 }
+div{
+    width: 670px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+a{
+    color: white;
+
+}
+body{
+    background-color: #999;
+    color: black;
+}
+.fejléc{
+    width: 100%;
+    
+}
